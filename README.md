@@ -299,7 +299,7 @@ All logos are either the originals in vector format or result from a personal ve
 
 Missing logos will only be provided once a vectorization closer to the original has been done.
 
-####TODO
+#### TODO
 * Script to check missing logos
 * Vectorization of missing logos
 * Script to retrieve logo from exchange name or url

@@ -274,6 +274,18 @@ List and logos of cryptocurrencies exchanges
 * [dcex](https://www.dc-ex.com)
 * [coinpit](https://coinpit.io/)
 
+* [1broker](https://1broker.com),
+* [1btcxe](https://1btcxe.com/),
+* [anybits](https://anybits.com/),
+* [coinspot](https://www.coinspot.com.au),
+* [crypton](https://cryptonbtc.com/),
+* [deribit](https://www.deribit.com/),
+* [coolcoin](https://www.coolcoin.com/),
+* [fybse](https://www.fybse.se),
+* [fybsg](https://www.fybsg.com),
+* [getbtc](https://getbtc.org/),
+* [ice3x](https://ice3x.com/),
+
 ## Logos
 I provide logos for each exchange in various formats:
 * SVG
